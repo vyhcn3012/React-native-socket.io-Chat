@@ -24,7 +24,7 @@ if (!window.location) {
 }
 
 // This must be below your `window.navigator` hack above
-const socket = SocketIOClient('http://192.168.180.69:3000', {
+const socket = SocketIOClient('http://192.168.1.8:3000', {
   transports: ['websocket'] // you need to explicitly tell it to use websockets
 });
 

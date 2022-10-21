@@ -20,7 +20,7 @@ class DetailsScreen extends React.Component {
 
         <View style={{marginLeft: 20}}>
           <Text style={{fontSize: 16, marginBottom: 10}}>React Native</Text>
-          <Text>"expo": "27.0.0",</Text>
+          <Text>"expo": "46.0.0",</Text>
           <Text>"react": "16.5.0",</Text>
           <Text>"react-native": "0.57"</Text>
           <Text>"socket.io-client": "^2.1.1"</Text>
